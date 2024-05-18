@@ -1,3 +1,4 @@
 -Aprendi a usar html
 - Aprendi a usar CSS
 - Aprendi Javascript
+- Aprendi Teoria de programacion
